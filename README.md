@@ -21,12 +21,7 @@ Facial recognition is a key technology in security and authentication systems. T
 
 ## Installation
 
-1. Clone the repository:
-
-git clone https://github.com/yourusername/cnn-facial-recognition.git
-cd cnn-facial-recognition
-
-2. Install required packages:
+1. Install required packages:
 
 pip install tensorflow keras pandas numpy matplotlib scikit-learn tqdm plotly
 
